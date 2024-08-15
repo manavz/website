@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This project was completely deployed and live here -> (https://manavz.github.io)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
